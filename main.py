@@ -25,3 +25,7 @@ def dire_bonjour():
 
 dire_bonjour()
 
+def dire_salut():
+    print("Salut, Git!")
+
+dire_salut()
